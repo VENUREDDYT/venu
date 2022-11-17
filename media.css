@@ -1,0 +1,17 @@
+.title{
+    font-size: 6rem;
+
+}
+.subtitle{
+    font-size: 4rem;
+    color: red;
+}
+p{
+    color: green;
+    font-size: 40px;
+}
+@media all {
+    body{
+        background-color: rgb(216, 24, 69);
+    }
+}
